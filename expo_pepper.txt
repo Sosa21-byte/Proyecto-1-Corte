@@ -1,0 +1,16 @@
+^start(animations/Stand/Gestures/Explain_2) \rspd=90\ Hola, hoy quiero contarles sobre una innovación muy interesante: los materiales programables. \pau=400\
+
+Un material programable puede cambiar sus propiedades físicas, como su forma, su rigidez o su color, cuando recibe una instrucción externa, como calor, electricidad o luz. \pau=400\
+
+^start(animations/Stand/Gestures/Explain_2) Por ejemplo, ya existen textiles que cambian de color con la temperatura. 
+En robótica, hay piezas que se vuelven flexibles o rígidas según la tarea. 
+Incluso algunos materiales pueden repararse solos cuando detectan una falla. \pau=400\
+
+¿Por qué es importante para los sistemas digitales? \pau=200\ 
+Primero, porque permiten crear hardware reconfigurable, parecido a un FPGA pero en lo físico. \pau=200\ 
+Segundo, porque al repararse, los dispositivos serán más duraderos y sostenibles. \pau=200\ 
+Y tercero, porque podrán adaptarse a cada necesidad, ahorrando energía y mejorando la interacción con las personas. \pau=500\
+
+^start(animations/Stand/Gestures/Explain_2) En conclusión: los materiales programables son parte del futuro. 
+Muy pronto veremos robots, computadores y teléfonos que no solo cambian su software, sino también su estructura para adaptarse a nosotros. \pau=300\ 
+¡Ese futuro está cada vez más cerca! ^wait(animations/Stand/Gestures/Explain_2)

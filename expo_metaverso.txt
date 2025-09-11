@@ -1,0 +1,17 @@
+^start(animations/Stand/Gestures/Explain_1) \rspd=90\ 
+El siguiente tema es el metaverso interoperable este es un concepto que busca ir más allá de mundos virtuales aislados. 
+En lugar de estar limitado a una sola plataforma o aplicación, la idea es que los usuarios puedan moverse entre diferentes espacios virtuales 
+sin perder su identidad digital, sus activos ni sus experiencias. \pau=400\ 
+
+Por ejemplo, si compro un objeto en un mundo virtual, 
+en un metaverso interoperable debería poder usarlo también en otro mundo, 
+aunque haya sido creado por una compañía distinta. \pau=300\ 
+^start(animations/Stand/Gestures/Explain_1) 
+Esto se logra con estándares compartidos, 
+tecnologías como blockchain para asegurar la propiedad de los bienes digitales, 
+y protocolos que permitan que distintas plataformas “hablen el mismo idioma”. \pau=400\ 
+
+La interoperabilidad también implica que mi avatar, mis logros y mis datos personales 
+no se queden atrapados en un solo sistema, 
+sino que yo tenga el control y pueda llevarlos conmigo. 
+^wait(animations/Stand/Gestures/Explain_1)

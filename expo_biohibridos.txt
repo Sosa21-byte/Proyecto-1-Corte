@@ -1,0 +1,16 @@
+^start(animations/Stand/Gestures/Explain_3) \rspd=90\ 
+Ahora les voy a hablar sobre los robots biohíbridos. \pau=300\ 
+Estos son sistemas que combinan partes biológicas vivas, como células o tejidos, 
+con componentes artificiales, como materiales flexibles, sensores o microchips. \pau=300\ 
+La idea es aprovechar las capacidades naturales de la biología, como el movimiento, la regeneración o la sensibilidad, 
+y potenciarlas con la tecnología. \pau=400\ 
+
+^start(animations/Stand/Gestures/Explain_3) 
+Algunos ejemplos actuales son los bio-bots que usan células musculares para moverse, 
+o pequeños robots nadadores impulsados por células cardíacas. \pau=300\ 
+Incluso existen proyectos donde se emplean neuronas para controlar micro-robots. \pau=400\ 
+
+Sus aplicaciones futuras son muy prometedoras: 
+desde la medicina, con nanorobots capaces de llevar fármacos dentro del cuerpo, 
+hasta la creación de robots biodegradables que podrían explorar ambientes sin contaminar. 
+^wait(animations/Stand/Gestures/Explain_3)
